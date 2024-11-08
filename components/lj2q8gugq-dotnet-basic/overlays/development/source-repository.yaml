@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lj2q8gugq-dotnet-basic-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/lj2q8gugq-dotnet-basic
